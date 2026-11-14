@@ -1,0 +1,43 @@
+{
+ "mssv": "202603224",
+ "ten": "NguyenQuocViet",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "vietnguyen10022001@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000137767.jpg",
+  "000000196283.jpg",
+  "000000308257.jpg",
+  "000000493741.jpg",
+  "000000558066.jpg",
+  "000000109010.jpg",
+  "000000179201.jpg",
+  "000000188804.jpg",
+  "000000022857.jpg",
+  "000000054909.jpg",
+  "000000572411.jpg",
+  "000000326480.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_261458.jpg",
+  "face_469647.jpg",
+  "face_264124.jpg",
+  "face_449454.jpg",
+  "face_504911.jpg",
+  "face_99874.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 7,
+   "job_id": 7,
+   "task_name": "persons-NguyenQuocViet"
+  },
+  "faces": {
+   "task_id": 8,
+   "job_id": 8,
+   "task_name": "faces-NguyenQuocViet"
+  }
+ }
+}
